@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+}
+
+nav{
+    text-align: right;
+    background-color:darkgray;
+}
+
+.loguito
+{
+    margin-right: 68%;
+    height: 55%;
+    width: 65px;
+    margin-top: 12px;
+}
+
+.lista{
+    list-style: none;
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    margin-right: 10px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 20px;
+}
+
+#encabezado
+{
+    color: darkblue;
+    text-align: center;
+    font-size: 40px;
+}
+
+.cita
+{
+    text-align: center;
+    font-size: 20px;
+    color: blue;
+    font-family: cursive;
+}
+
+h2
+{
+    font-size: 30px;
+    margin-left: 20px;
+    color: chocolate;
+    font-family: cursive;
+}
+
+h3
+{
+    font-size: 25px;
+    margin-left: 20px;
+    color: chocolate;
+    font-family: cursive;
+}
